@@ -1,6 +1,6 @@
 <?php
 
-namespace ramomen\LaravelMakeTool;
+namespace Ramomen\LaravelMakeTool;
 
 use Illuminate\Support\ServiceProvider;
 
