@@ -5,7 +5,7 @@ namespace Ramomen\LaravelMakeTool;
 use Illuminate\Console\GeneratorCommand;
 
 /**
- * Class MakeService.
+ * Class MakeTool.
  *
  * @author  ramomen (https://github.com/ramomen)
  */
