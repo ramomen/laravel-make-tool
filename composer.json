@@ -20,7 +20,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "rmaomen",
+            "name": "ramomen",
             "email": "heyyo@ramomen.co"
         }
     ],
@@ -33,7 +33,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ramomen\\RamomenMakeTool\\": "src/"
+            "Ramomen\\LaravelMakeTool\\": "src/"
         },
         "classmap": ["src/"]
     }
