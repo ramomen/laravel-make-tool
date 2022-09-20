@@ -9,7 +9,7 @@ use Illuminate\Console\GeneratorCommand;
  *
  * @author  ramomen (https://github.com/ramomen)
  */
-class MakeService extends GeneratorCommand
+class MakeTool extends GeneratorCommand
 {
     /**
      * STUB_PATH.
